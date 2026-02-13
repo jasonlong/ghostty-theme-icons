@@ -15,7 +15,7 @@ macos-icon = custom
 macos-icon-custom = ~/.config/ghostty/gruvbox-dark-hard.icns
 ```
 
-4. Restart Ghostty
+4. Reload Ghostty configuration
 
 ## Table of Contents
 
