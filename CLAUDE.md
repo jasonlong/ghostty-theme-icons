@@ -137,14 +137,27 @@ Show the final .icns to the user for verification.
 
 | Theme | bg | fg | accent1 | accent2 | accent3 | accent4 |
 |-------|----|----|---------|---------|---------|---------|
-| Tokyo Night | #24283b | #c0caf5 | #f7768e | #7aa2f7 | #9ece6a | #e0af68 |
-| Catppuccin Mocha | #1e1e2e | #cdd6f4 | #f38ba8 | #94e2d5 | #a6e3a1 | #f9e2af |
+| Tokyo Night | #1a1b26 | #c0caf5 | #ff9e64 | #9ece6a | #bb9af7 | #7aa2f7 |
+| Tokyo Night Storm | #24283b | #c0caf5 | #ff9e64 | #9ece6a | #bb9af7 | #7aa2f7 |
+| Tokyo Night Moon | #222436 | #c8d3f5 | #ff966c | #c3e88d | #c099ff | #82aaff |
+| Tokyo Night Day | #e1e2e7 | #3760bf | #b15c00 | #587539 | #9854f1 | #2e7de9 |
+| Catppuccin Mocha | #1e1e2e | #cdd6f4 | #fab387 | #a6e3a1 | #cba6f7 | #89b4fa |
+| Catppuccin Macchiato | #24273a | #cad3f5 | #f5a97f | #a6da95 | #c6a0f6 | #8aadf4 |
+| Catppuccin Frappé | #303446 | #c6d0f5 | #ef9f76 | #a6d189 | #ca9ee6 | #8caaee |
+| Catppuccin Latte | #eff1f5 | #4c4f69 | #fe640b | #40a02b | #8839ef | #1e66f5 |
 | Dracula | #282a36 | #f8f8f2 | #ff79c6 | #bd93f9 | #50fa7b | #f1fa8c |
 | Nord | #2e3440 | #eceff4 | #d08770 | #81a1c1 | #88c0d0 | #a3be8c |
 | Rosé Pine | #191724 | #e0def4 | #eb6f92 | #9ccfd8 | #31748f | #f6c177 |
 | Solarized Dark | #002b36 | #839496 | #dc322f | #268bd2 | #859900 | #b58900 |
 | Solarized Light | #fdf6e3 | #657b83 | #dc322f | #268bd2 | #859900 | #b58900 |
-| Everforest Dark | #2d353b | #d3c6aa | #e67e80 | #7fbbb3 | #a7c080 | #dbbc7f |
-| Everforest Light | #fdf6e3 | #5c6a72 | #f85552 | #3a94c5 | #8da101 | #dfa000 |
-| Kanagawa Wave | #16161d | #dcd7ba | #e46876 | #7e9cd8 | #98bb6c | #e6c384 |
-| Poimandres | #1b1e28 | #e4f0fb | #5DE4c7 | #ADD7FF | #f087bd | #fffac2 |
+| Everforest Dark Hard | #272e33 | #d3c6aa | #e69875 | #a7c080 | #83c092 | #dbbc7f |
+| Everforest Dark Medium | #2d353b | #d3c6aa | #e69875 | #a7c080 | #83c092 | #dbbc7f |
+| Everforest Dark Soft | #333c43 | #d3c6aa | #e69875 | #a7c080 | #83c092 | #dbbc7f |
+| Everforest Light Hard | #fffbef | #5c6a72 | #f57d26 | #8da101 | #35a77c | #dfa000 |
+| Everforest Light Medium | #fdf6e3 | #5c6a72 | #f57d26 | #8da101 | #35a77c | #dfa000 |
+| Everforest Light Soft | #f3ead3 | #5c6a72 | #f57d26 | #8da101 | #35a77c | #dfa000 |
+| Kanagawa Wave | #1f1f28 | #dcd7ba | #e46876 | #7e9cd8 | #98bb6c | #e6c384 |
+| Kanagawa Dragon | #181616 | #c5c9c5 | #c4746e | #8ba4b0 | #87a987 | #c4b28a |
+| Kanagawa Lotus | #f2ecbc | #545464 | #c84053 | #6693bf | #6f894e | #de9800 |
+| Poimandres | #1b1e28 | #e4f0fb | #5DE4C7 | #ADD7FF | #D0679D | #FFFAC2 |
+| Poimandres Storm | #303340 | #e4f0fb | #5DE4C7 | #ADD7FF | #D0679D | #FFFAC2 |
