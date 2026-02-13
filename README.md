@@ -4,18 +4,31 @@ Custom macOS app icons for [Ghostty](https://ghostty.org) terminal, themed to ma
 
 Each icon is built with Apple's Icon Composer format — 3 layered SVGs (background, color bar, ghost) with proper lighting, shadows, and translucency for the macOS Tahoe icon style.
 
+## Installation
+
+1. Download the `.icns` file for your theme
+2. Place it somewhere permanent (e.g. `~/.config/ghostty/`)
+3. Add the following to your Ghostty config:
+
+```
+macos-icon = custom
+macos-icon-custom = ~/.config/ghostty/gruvbox-dark-hard.icns
+```
+
+4. Restart Ghostty
+
 ## Table of Contents
 
 - [Catppuccin](#catppuccin)
 - [Dracula](#dracula)
 - [Everforest](#everforest)
+- [Gruvbox](#gruvbox)
 - [Kanagawa](#kanagawa)
 - [Nord](#nord)
 - [Poimandres](#poimandres)
 - [Rosé Pine](#rosé-pine)
 - [Solarized](#solarized)
 - [Tokyo Night](#tokyo-night)
-- [Installation](#installation)
 
 ---
 
@@ -48,6 +61,22 @@ Each icon is built with Apple's Icon Composer format — 3 layered SVGs (backgro
 |:----:|:------:|:----:|
 | <img src="icons/everforest-light-hard/everforest-light-hard.png" width="128"> | <img src="icons/everforest-light-medium/everforest-light-medium.png" width="128"> | <img src="icons/everforest-light-soft/everforest-light-soft.png" width="128"> |
 | [Download .icns](icons/everforest-light-hard/everforest-light-hard.icns) | [Download .icns](icons/everforest-light-medium/everforest-light-medium.icns) | [Download .icns](icons/everforest-light-soft/everforest-light-soft.icns) |
+
+## Gruvbox
+
+### Dark
+
+| Hard | Medium |
+|:----:|:------:|
+| <img src="icons/gruvbox-dark-hard/gruvbox-dark-hard.png" width="128"> | <img src="icons/gruvbox-dark-medium/gruvbox-dark-medium.png" width="128"> |
+| [Download .icns](icons/gruvbox-dark-hard/gruvbox-dark-hard.icns) | [Download .icns](icons/gruvbox-dark-medium/gruvbox-dark-medium.icns) |
+
+### Light
+
+| Hard | Medium |
+|:----:|:------:|
+| <img src="icons/gruvbox-light-hard/gruvbox-light-hard.png" width="128"> | <img src="icons/gruvbox-light-medium/gruvbox-light-medium.png" width="128"> |
+| [Download .icns](icons/gruvbox-light-hard/gruvbox-light-hard.icns) | [Download .icns](icons/gruvbox-light-medium/gruvbox-light-medium.icns) |
 
 ## Kanagawa
 
@@ -91,13 +120,3 @@ Each icon is built with Apple's Icon Composer format — 3 layered SVGs (backgro
 | <img src="icons/tokyo-night/tokyo-night.png" width="128"> | <img src="icons/tokyo-night-storm/tokyo-night-storm.png" width="128"> | <img src="icons/tokyo-night-moon/tokyo-night-moon.png" width="128"> | <img src="icons/tokyo-night-day/tokyo-night-day.png" width="128"> |
 | [Download .icns](icons/tokyo-night/tokyo-night.icns) | [Download .icns](icons/tokyo-night-storm/tokyo-night-storm.icns) | [Download .icns](icons/tokyo-night-moon/tokyo-night-moon.icns) | [Download .icns](icons/tokyo-night-day/tokyo-night-day.icns) |
 
----
-
-## Installation
-
-1. Download the `.icns` file for your theme
-2. Open Finder and navigate to `/Applications`
-3. Right-click **Ghostty.app** and select **Get Info**
-4. Drag the `.icns` file onto the icon in the top-left corner of the Info window
-
-To revert to the default icon, select the icon in the Get Info window and press `Delete`.

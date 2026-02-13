@@ -161,3 +161,7 @@ Show the final .icns to the user for verification.
 | Kanagawa Lotus | #f2ecbc | #545464 | #c84053 | #6693bf | #6f894e | #de9800 |
 | Poimandres | #1b1e28 | #e4f0fb | #5DE4C7 | #ADD7FF | #D0679D | #FFFAC2 |
 | Poimandres Storm | #303340 | #e4f0fb | #5DE4C7 | #ADD7FF | #D0679D | #FFFAC2 |
+| Gruvbox Dark Hard | #1d2021 | #ebdbb2 | #cc241d | #458588 | #98971a | #d79921 |
+| Gruvbox Dark Medium | #282828 | #ebdbb2 | #cc241d | #458588 | #98971a | #d79921 |
+| Gruvbox Light Hard | #f9f5d7 | #3c3836 | #cc241d | #458588 | #98971a | #d79921 |
+| Gruvbox Light Medium | #fbf1c7 | #3c3836 | #cc241d | #458588 | #98971a | #d79921 |
