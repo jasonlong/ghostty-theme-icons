@@ -1,0 +1,114 @@
+{
+  "fill": {
+    "automatic-gradient": "display-p3:0.98039,0.95686,0.92941,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "fill": {
+            "automatic-gradient": "display-p3:0.27451,0.25882,0.38039,1.00000"
+          },
+          "image-name": "rose-pine-dawn-3-ghost.svg",
+          "name": "rose-pine-dawn-3-ghost"
+        }
+      ],
+      "lighting-specializations": [
+        {
+          "appearance": "dark",
+          "value": "individual"
+        }
+      ],
+      "shadow-specializations": [
+        {
+          "appearance": "dark",
+          "value": {
+            "kind": "none",
+            "opacity": 0.5
+          }
+        }
+      ],
+      "specular-specializations": [
+        {
+          "appearance": "dark",
+          "value": true
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "hidden": false,
+          "image-name": "rose-pine-dawn-2-color-bar.svg",
+          "name": "rose-pine-dawn-2-color-bar"
+        }
+      ],
+      "name": "Group",
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "specular-specializations": [
+        {
+          "value": false
+        },
+        {
+          "appearance": "dark",
+          "value": false
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "image-name": "rose-pine-dawn-1-background.svg",
+          "name": "rose-pine-dawn-1-background"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}

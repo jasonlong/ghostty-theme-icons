@@ -1,0 +1,119 @@
+{
+  "fill": {
+    "automatic-gradient": "display-p3:0.18039,0.20392,0.25098,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "fill-specializations": [
+            {
+              "appearance": "dark",
+              "value": {
+                "automatic-gradient": "display-p3:0.92549,0.93725,0.95686,1.00000"
+              }
+            }
+          ],
+          "image-name": "nord-3-ghost.svg",
+          "name": "nord-3-ghost"
+        }
+      ],
+      "lighting-specializations": [
+        {
+          "appearance": "dark",
+          "value": "individual"
+        }
+      ],
+      "shadow-specializations": [
+        {
+          "appearance": "dark",
+          "value": {
+            "kind": "none",
+            "opacity": 0.5
+          }
+        }
+      ],
+      "specular-specializations": [
+        {
+          "appearance": "dark",
+          "value": true
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "hidden": false,
+          "image-name": "nord-2-color-bar.svg",
+          "name": "nord-2-color-bar"
+        }
+      ],
+      "name": "Group",
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "specular-specializations": [
+        {
+          "value": false
+        },
+        {
+          "appearance": "dark",
+          "value": false
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "image-name": "nord-1-background.svg",
+          "name": "nord-1-background"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}
