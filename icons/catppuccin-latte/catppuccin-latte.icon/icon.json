@@ -1,0 +1,114 @@
+{
+  "fill": {
+    "automatic-gradient": "display-p3:0.93725,0.94510,0.96078,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "fill": {
+            "automatic-gradient": "display-p3:0.29804,0.30980,0.41176,1.00000"
+          },
+          "image-name": "catppuccin-latte-3-ghost.svg",
+          "name": "catppuccin-latte-3-ghost"
+        }
+      ],
+      "lighting-specializations": [
+        {
+          "appearance": "dark",
+          "value": "individual"
+        }
+      ],
+      "shadow-specializations": [
+        {
+          "appearance": "dark",
+          "value": {
+            "kind": "none",
+            "opacity": 0.5
+          }
+        }
+      ],
+      "specular-specializations": [
+        {
+          "appearance": "dark",
+          "value": true
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "hidden": false,
+          "image-name": "catppuccin-latte-2-color-bar.svg",
+          "name": "catppuccin-latte-2-color-bar"
+        }
+      ],
+      "name": "Group",
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "specular-specializations": [
+        {
+          "value": false
+        },
+        {
+          "appearance": "dark",
+          "value": false
+        }
+      ],
+      "translucency-specializations": [
+        {
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        },
+        {
+          "appearance": "dark",
+          "value": {
+            "enabled": false,
+            "value": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "image-name": "catppuccin-latte-1-background.svg",
+          "name": "catppuccin-latte-1-background"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "translucency": {
+        "enabled": true,
+        "value": 0.5
+      }
+    }
+  ],
+  "supported-platforms": {
+    "circles": [
+      "watchOS"
+    ],
+    "squares": "shared"
+  }
+}
