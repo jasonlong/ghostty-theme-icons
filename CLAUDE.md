@@ -140,7 +140,7 @@ Show the final .icns to the user for verification.
 | Tokyo Night | #24283b | #c0caf5 | #f7768e | #7aa2f7 | #9ece6a | #e0af68 |
 | Catppuccin Mocha | #1e1e2e | #cdd6f4 | #f38ba8 | #94e2d5 | #a6e3a1 | #f9e2af |
 | Dracula | #282a36 | #f8f8f2 | #ff79c6 | #bd93f9 | #50fa7b | #f1fa8c |
-| Nord | #2e3440 | #eceff4 | #bf616a | #81a1c1 | #a3be8c | #ebcb8b |
+| Nord | #2e3440 | #eceff4 | #d08770 | #81a1c1 | #88c0d0 | #a3be8c |
 | Rosé Pine | #191724 | #e0def4 | #eb6f92 | #9ccfd8 | #31748f | #f6c177 |
 | Solarized Dark | #002b36 | #839496 | #dc322f | #268bd2 | #859900 | #b58900 |
 | Solarized Light | #fdf6e3 | #657b83 | #dc322f | #268bd2 | #859900 | #b58900 |
