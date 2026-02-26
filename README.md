@@ -12,7 +12,7 @@ Each icon is built with Apple's Icon Composer format — 3 layered SVGs (backgro
 
 ```
 macos-icon = custom
-macos-icon-custom = ~/.config/ghostty/gruvbox-dark-hard.icns
+macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 ```
 
 4. Reload Ghostty configuration
