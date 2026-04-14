@@ -165,3 +165,7 @@ Show the final .icns to the user for verification.
 | Gruvbox Dark Medium | #282828 | #ebdbb2 | #cc241d | #458588 | #98971a | #d79921 |
 | Gruvbox Light Hard | #f9f5d7 | #3c3836 | #cc241d | #458588 | #98971a | #d79921 |
 | Gruvbox Light Medium | #fbf1c7 | #3c3836 | #cc241d | #458588 | #98971a | #d79921 |
+| Material | #263238 | #eeffff | #ff5370 | #c792ea | #c3e88d | #ffcb6b |
+| Material Darker | #212121 | #eeffff | #ff5370 | #c792ea | #c3e88d | #ffcb6b |
+| Material Ocean | #0f111a | #8f93a2 | #ff5370 | #c792ea | #c3e88d | #ffcb6b |
+| Material Palenight | #292d3e | #a6accd | #ff5370 | #c792ea | #c3e88d | #ffcb6b |

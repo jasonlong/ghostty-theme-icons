@@ -24,6 +24,7 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 - [Everforest](#everforest)
 - [Gruvbox](#gruvbox)
 - [Kanagawa](#kanagawa)
+- [Material](#material)
 - [Nord](#nord)
 - [Poimandres](#poimandres)
 - [Rosé Pine](#rosé-pine)
@@ -84,6 +85,13 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 |:----:|:------:|:-----:|
 | <img src="icons/kanagawa-wave/kanagawa-wave.png" width="128"> | <img src="icons/kanagawa-dragon/kanagawa-dragon.png" width="128"> | <img src="icons/kanagawa-lotus/kanagawa-lotus.png" width="128"> |
 | [Download .icns](icons/kanagawa-wave/kanagawa-wave.icns) | [Download .icns](icons/kanagawa-dragon/kanagawa-dragon.icns) | [Download .icns](icons/kanagawa-lotus/kanagawa-lotus.icns) |
+
+## Material
+
+| Default | Darker | Ocean | Palenight |
+|:-------:|:------:|:-----:|:---------:|
+| <img src="icons/material/material.png" width="128"> | <img src="icons/material-darker/material-darker.png" width="128"> | <img src="icons/material-ocean/material-ocean.png" width="128"> | <img src="icons/material-palenight/material-palenight.png" width="128"> |
+| [Download .icns](icons/material/material.icns) | [Download .icns](icons/material-darker/material-darker.icns) | [Download .icns](icons/material-ocean/material-ocean.icns) | [Download .icns](icons/material-palenight/material-palenight.icns) |
 
 ## Nord
 
