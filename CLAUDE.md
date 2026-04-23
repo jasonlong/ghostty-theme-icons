@@ -169,3 +169,6 @@ Show the final .icns to the user for verification.
 | Material Darker | #212121 | #eeffff | #ff5370 | #c792ea | #c3e88d | #ffcb6b |
 | Material Ocean | #0f111a | #8f93a2 | #ff5370 | #c792ea | #c3e88d | #ffcb6b |
 | Material Palenight | #292d3e | #a6accd | #ff5370 | #c792ea | #c3e88d | #ffcb6b |
+| Ayu Dark | #0D1017 | #BFBDB6 | #F07178 | #39BAE6 | #AAD94C | #E6B450 |
+| Ayu Mirage | #1F2430 | #CCCAC2 | #F28779 | #5CCFE6 | #D5FF80 | #FFCC66 |
+| Ayu Light | #F8F9FA | #5C6166 | #F07171 | #55B4D4 | #86B300 | #F29718 |
