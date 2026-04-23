@@ -19,6 +19,7 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 
 ## Table of Contents
 
+- [Ayu](#ayu)
 - [Catppuccin](#catppuccin)
 - [Dracula](#dracula)
 - [Everforest](#everforest)
@@ -32,6 +33,13 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 - [Tokyo Night](#tokyo-night)
 
 ---
+
+## Ayu
+
+| Dark | Mirage | Light |
+|:----:|:------:|:-----:|
+| <img src="icons/ayu-dark/ayu-dark.png" width="128"> | <img src="icons/ayu-mirage/ayu-mirage.png" width="128"> | <img src="icons/ayu-light/ayu-light.png" width="128"> |
+| [Download .icns](icons/ayu-dark/ayu-dark.icns) | [Download .icns](icons/ayu-mirage/ayu-mirage.icns) | [Download .icns](icons/ayu-light/ayu-light.icns) |
 
 ## Catppuccin
 
