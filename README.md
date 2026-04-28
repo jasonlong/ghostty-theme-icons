@@ -26,6 +26,7 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 - [Gruvbox](#gruvbox)
 - [Kanagawa](#kanagawa)
 - [Material](#material)
+- [Nightfly](#nightfly)
 - [Nord](#nord)
 - [Poimandres](#poimandres)
 - [Rosé Pine](#rosé-pine)
@@ -100,6 +101,13 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 |:-------:|:------:|:-----:|:---------:|
 | <img src="icons/material/material.png" width="128"> | <img src="icons/material-darker/material-darker.png" width="128"> | <img src="icons/material-ocean/material-ocean.png" width="128"> | <img src="icons/material-palenight/material-palenight.png" width="128"> |
 | [Download .icns](icons/material/material.icns) | [Download .icns](icons/material-darker/material-darker.icns) | [Download .icns](icons/material-ocean/material-ocean.icns) | [Download .icns](icons/material-palenight/material-palenight.icns) |
+
+## Nightfly
+
+| Nightfly |
+|:--------:|
+| <img src="icons/nightfly/nightfly.png" width="128"> |
+| [Download .icns](icons/nightfly/nightfly.icns) |
 
 ## Nord
 

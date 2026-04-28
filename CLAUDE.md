@@ -133,6 +133,22 @@ rm -rf /tmp/icon.iconset /tmp/{slug}-padded.png
 
 Show the final .icns to the user for verification.
 
+### Step 6: Update README.md
+
+Add the new theme to `README.md`:
+
+1. **Table of contents** — insert the theme alphabetically into the bulleted list (e.g. `- [Nightfly](#nightfly)`).
+2. **Theme section** — add a new section in alphabetical order. For a single-variant theme, use a 1-column table:
+   ```markdown
+   ## {Theme Name}
+
+   | {Variant} |
+   |:---------:|
+   | <img src="icons/{slug}/{slug}.png" width="128"> |
+   | [Download .icns](icons/{slug}/{slug}.icns) |
+   ```
+   For multi-variant themes, follow existing patterns (e.g. Catppuccin, Everforest) — multiple columns, optionally split into Dark/Light subsections via `### Dark` / `### Light` headings.
+
 ## Existing Theme Palettes
 
 | Theme | bg | fg | accent1 | accent2 | accent3 | accent4 |
@@ -172,3 +188,4 @@ Show the final .icns to the user for verification.
 | Ayu Dark | #0D1017 | #BFBDB6 | #F07178 | #39BAE6 | #AAD94C | #E6B450 |
 | Ayu Mirage | #1F2430 | #CCCAC2 | #F28779 | #5CCFE6 | #D5FF80 | #FFCC66 |
 | Ayu Light | #F8F9FA | #5C6166 | #F07171 | #55B4D4 | #86B300 | #F29718 |
+| Nightfly | #011627 | #c3ccdc | #fc514e | #82aaff | #7fdbca | #e3d18a |
