@@ -189,3 +189,9 @@ Add the new theme to `README.md`:
 | Ayu Mirage | #1F2430 | #CCCAC2 | #F28779 | #5CCFE6 | #D5FF80 | #FFCC66 |
 | Ayu Light | #F8F9FA | #5C6166 | #F07171 | #55B4D4 | #86B300 | #F29718 |
 | Nightfly | #011627 | #c3ccdc | #fc514e | #82aaff | #7fdbca | #e3d18a |
+| Monokai | #272822 | #f8f8f2 | #f92672 | #66d9ef | #a6e22e | #e6db74 |
+| Monokai Pro | #2d2a2e | #fcfcfa | #ff6188 | #78dce8 | #a9dc76 | #ffd866 |
+| Monokai Pro Octagon | #282a3a | #eaf2f1 | #ff657a | #9cd1bb | #bad761 | #ffd76d |
+| Monokai Pro Machine | #273136 | #f2fffc | #ff6d7e | #7cd5f1 | #a2e57b | #ffed72 |
+| Monokai Pro Ristretto | #2c2525 | #fff1f3 | #fd6883 | #85dacc | #adda78 | #f9cc6c |
+| Monokai Pro Spectrum | #222222 | #f7f1ff | #fc618d | #5ad4e6 | #7bd88f | #fce566 |

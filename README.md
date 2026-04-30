@@ -26,6 +26,7 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 - [Gruvbox](#gruvbox)
 - [Kanagawa](#kanagawa)
 - [Material](#material)
+- [Monokai](#monokai)
 - [Nightfly](#nightfly)
 - [Nord](#nord)
 - [Poimandres](#poimandres)
@@ -101,6 +102,13 @@ macos-custom-icon = ~/.config/ghostty/gruvbox-dark-hard.icns
 |:-------:|:------:|:-----:|:---------:|
 | <img src="icons/material/material.png" width="128"> | <img src="icons/material-darker/material-darker.png" width="128"> | <img src="icons/material-ocean/material-ocean.png" width="128"> | <img src="icons/material-palenight/material-palenight.png" width="128"> |
 | [Download .icns](icons/material/material.icns) | [Download .icns](icons/material-darker/material-darker.icns) | [Download .icns](icons/material-ocean/material-ocean.icns) | [Download .icns](icons/material-palenight/material-palenight.icns) |
+
+## Monokai
+
+| Classic | Pro | Octagon | Machine | Ristretto | Spectrum |
+|:-------:|:---:|:-------:|:-------:|:---------:|:--------:|
+| <img src="icons/monokai/monokai.png" width="128"> | <img src="icons/monokai-pro/monokai-pro.png" width="128"> | <img src="icons/monokai-pro-octagon/monokai-pro-octagon.png" width="128"> | <img src="icons/monokai-pro-machine/monokai-pro-machine.png" width="128"> | <img src="icons/monokai-pro-ristretto/monokai-pro-ristretto.png" width="128"> | <img src="icons/monokai-pro-spectrum/monokai-pro-spectrum.png" width="128"> |
+| [Download .icns](icons/monokai/monokai.icns) | [Download .icns](icons/monokai-pro/monokai-pro.icns) | [Download .icns](icons/monokai-pro-octagon/monokai-pro-octagon.icns) | [Download .icns](icons/monokai-pro-machine/monokai-pro-machine.icns) | [Download .icns](icons/monokai-pro-ristretto/monokai-pro-ristretto.icns) | [Download .icns](icons/monokai-pro-spectrum/monokai-pro-spectrum.icns) |
 
 ## Nightfly
 
